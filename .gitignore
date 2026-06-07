@@ -1,0 +1,7 @@
+Board1/Debug/
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.hex.asm
